@@ -1,0 +1,9 @@
+{
+	"dependencies":
+	{
+		"@toast-ui/react-image-editor": "latest",
+		"webpack": "latest",
+		"webpack-cli": "latest",
+		"react": "latest"
+	}
+}
